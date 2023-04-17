@@ -1,7 +1,7 @@
 ---
-title: "CrunchDAO White Paper"
-subtitle: "A protocol to aggregate and sell quantitative research"
-author: [Arnaud Castillo, Jean Herelle, \\ Benjamin Gabay, Matteo Manzi]
+title: "A protocol to aggregate and sell quantitative research"
+subtitle: "CrunchDAO White Paper"
+author: [Arnaud Castillo, Jean Herelle, Benjamin Gabay, Matteo Manzi]
 date: "2023/04/17"
 lang: "en"
 colorlinks: true
@@ -164,7 +164,7 @@ Vesting periods and cliffs benefit CrunchDAO stakeholders (investors, members, c
 - Community members must be incentivized to contribute their predictions, which can be achieved through the provision of liquid tokens and competitive compensation to attract the best candidates. To increase this incentive, we will track the Reward/Member ratio as a key performance indicator. To enhance liquidity, we have designated a pocket for Tournaments exclusively for members and fully liquid. We have allocated a substantial fund, locked up in a similar way to that of founders, team members, and advisors, to pay and incentivize the community. The community should understand that our long-term objective is to offer them the opportunity to be fully involved in the project.
 - Short vesting periods and cliffs benefit investors, as they allow for members to be paid sooner.
 
-![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.006.jpeg)
+<img src="Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.006.jpeg"  width="60%" height="60%">
 
 ### Token split
 
@@ -172,7 +172,7 @@ Vesting periods and cliffs benefit CrunchDAO stakeholders (investors, members, c
 
 ![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.007.jpeg)
 
-### Detailed token allocation:
+### Detailed token allocation
 
 ![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.008.jpeg)
 
@@ -180,7 +180,8 @@ Vesting periods and cliffs benefit CrunchDAO stakeholders (investors, members, c
 
 ### The DAO choice
 
-*“Talent is equally distributed, opportunity is not.”*
+<center>*“Talent is equally distributed, opportunity is not.”*
+</center>
 
 CrunchDAO's decentralized structure allows for a truly global membership, welcoming individuals from all locations, including rural areas often overlooked by traditional centralized companies with brick-and-mortar offices. This approach ensures that the DAO attracts the most talented researchers, regardless of their physical location. Furthermore, CrunchDAO believes that it can outcompete other financial institutions by providing exceptional opportunities for quants and machine learning experts. Members of the DAO can earn competitive salaries on par with those in traditional financial institutions, while also enjoying the freedom to work remotely and potentially even balance other commitments. This approach promotes a healthy work-life balance and flexibility, making CrunchDAO an attractive employer for top talent. To date, CrunchDAO has welcomed data scientists and machine learning experts from over 50 countries, further solidifying its position as a truly global community of talented individuals.
 
