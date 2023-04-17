@@ -141,7 +141,9 @@ The token contract address is: **0x74451d2240ef9e86b3cea815378af61566b81856**
 
 The supply is limited to (Max Supply) 10 750 000 $CRUNCH which means that no other token can ever be minted. The current total supply is 10 750 000 $CRUNCH meaning that all $CRUNCH Tokens have already been released.
 
-The philosophy behind the tokenomics and the vesting. The CrunchDAO might vote on a potential listing![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.003.png) which would be considered as a starting point of the vesting.![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.004.png)
+[](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.003.png)
+
+[](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.004.png)
 
 The graph below shows how the circulating supply (excluding reserve) would evolve should the CrunchDAO community decide to vote on a proposed listing.
 
