@@ -78,7 +78,7 @@ Therefore, the total supply includes both the circulating supply and the coins t
 
 ### The limitation of Machine Learning in Finance
 
-The efficiency of machine learning models relies heavily on the signal-to-noise ratio of the data it's trained on. A high signal-to-noise environment, like computed vision (face recognition), is easy to predict since the signal outweighs the noise, such as background images or blur.
+The efficiency of machine learning models relies heavily on the signal-to-noise ratio of the data it's trained on. A high signal-to-noise environment, like computer vision (face recognition), is easy to predict since the signal outweighs the noise, such as background images or blur.
 
 The signal-to-noise ratio is a measure of how much useful information is contained in the data, compared to the amount of noise or irrelevant information. The higher the signal-to-noise ratio, the more predictable the data is, and the more accurate the machine learning models will be.
 
@@ -183,7 +183,7 @@ Vesting periods and cliffs benefit CrunchDAO stakeholders (investors, members, c
 
 *“Talent is equally distributed, opportunity is not.”*
 
-CrunchDAO's decentralized structure allows for a truly global membership, welcoming individuals from all locations, including rural areas often overlooked by traditional centralized companies with brick-and-mortar offices. This approach ensures that the DAO attracts the most talented researchers, regardless of their physical location. Furthermore, CrunchDAO believes that it can outcompete other financial institutions by providing exceptional opportunities for quants and machine learning experts. Members of the DAO can earn competitive salaries on par with those in traditional financial institutions, while also enjoying the freedom to work remotely and potentially even balance other commitments. This approach promotes a healthy work-life balance and flexibility, making CrunchDAO an attractive employer for top talent. To date, CrunchDAO has welcomed data scientists and machine learning experts from over 50 countries, further solidifying its position as a truly global community of talented individuals.
+CrunchDAO's decentralized structure allows for a truly global membership, welcoming individuals from all locations, including remote areas often overlooked by traditional centralized companies with brick-and-mortar offices. This approach ensures that the DAO attracts the most talented researchers, regardless of their physical location. Furthermore, CrunchDAO believes that it can outcompete other financial institutions by providing exceptional opportunities for quants and machine learning experts. Members of the DAO can earn competitive salaries on par with those in traditional financial institutions, while also enjoying the freedom to work remotely and potentially even balance other commitments. This approach promotes a healthy work-life balance and flexibility, making CrunchDAO an attractive employer for top talent. To date, CrunchDAO has welcomed data scientists and machine learning experts from over 50 countries, further solidifying its position as a truly global community of talented individuals.
 
 ### Current organizational structure
 
