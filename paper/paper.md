@@ -101,7 +101,7 @@ CrunchDAO offers an elegant way to contribute to market predictions by offering 
 
 In this context, CrunchDAO proposes a protocol to act as a secure, third-party intermediary to collect models and forecasts from its members and run them for customers while preserving the intellectual property of the DAO’s members.
 
-![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.001.jpeg)
+![](figures/WP1.png)
 
 The protocol is:
 
@@ -136,7 +136,7 @@ The decentralized research team within the DAO produces machine learning models.
 
 Clients pay fees to access CrunchDAO’s financial services.
 
-![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.002.jpeg)
+![](figures/WP2.png)
 
 ### Token type
 
@@ -148,13 +148,9 @@ The token contract address is: **0x74451d2240ef9e86b3cea815378af61566b81856**
 
 The supply is limited to (Max Supply) 10 750 000 $CRUNCH which means that no other token can ever be minted. The current total supply is 10 750 000 $CRUNCH meaning that all $CRUNCH Tokens have already been released.
 
-[](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.003.png)
-
-[](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.004.png)
-
 The graph below shows how the circulating supply (excluding reserve) would evolve should the CrunchDAO community decide to vote on a proposed listing.
 
-![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.005.png)
+![](figures/WP3.png)
 
 ### Vesting
 
@@ -164,18 +160,18 @@ Vesting periods and cliffs benefit CrunchDAO stakeholders (investors, members, c
 - Community members must be incentivized to contribute their predictions, which can be achieved through the provision of liquid tokens and competitive compensation to attract the best candidates. To increase this incentive, we will track the Reward/Member ratio as a key performance indicator. To enhance liquidity, we have designated a pocket for Tournaments exclusively for members and fully liquid. We have allocated a substantial fund, locked up in a similar way to that of founders, team members, and advisors, to pay and incentivize the community. The community should understand that our long-term objective is to offer them the opportunity to be fully involved in the project.
 - Short vesting periods and cliffs benefit investors, as they allow for members to be paid sooner.
 
-![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.006.jpeg)
+![](figures/WP4.png)
 
 
 ### Token split
 
 ### Simplified token allocation
 
-![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.007.jpeg)
+![](figures/WP5.png)
 
 ### Detailed token allocation
 
-![](Aspose.Words.88dc9a0e-c486-43e8-8ccc-f5064a48907a.008.jpeg)
+![](figures/WP6.png)
 
 ## Governance and Organization
 
